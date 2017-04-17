@@ -15,6 +15,9 @@ public class Mosh1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        String S;
+        S="I_Hate+GitHub";
+        System.out.println(S);
         // TODO code application logic here
     }
     
