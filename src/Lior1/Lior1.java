@@ -9,7 +9,7 @@ package Lior1;
  *
  * @author moshe
  */
-public class Lior1 {asjkhdaskjdAKSJDH
+public class Lior1 {
 
     /**
      * @param args the command line arguments
@@ -18,6 +18,7 @@ public class Lior1 {asjkhdaskjdAKSJDH
         String S;
         S="I_Hate+GitHub1";
         System.out.println(S);
+        System.out.println("do u see this?");
         // TODO code application logic here
     }
     
