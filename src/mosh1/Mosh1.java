@@ -16,7 +16,7 @@ public class Mosh1 {
      */
     public static void main(String[] args) {
         String S;
-        S="I_Hate+GitHub";
+        S="I_Hate+GitHub1";
         System.out.println(S);
         // TODO code application logic here
     }
