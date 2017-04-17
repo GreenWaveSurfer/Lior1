@@ -9,7 +9,7 @@ package javaapplication7;
  *
  * @author moshe
  */
-public class JavaApplication7 {zxbczjgcvashgdASHDGAV
+public class JavaApplication7 {MosheBartal12
 
     /**
      * @param args the command line arguments
